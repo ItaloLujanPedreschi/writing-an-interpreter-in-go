@@ -9,3 +9,4 @@
 
 ## Stretch Goals
 - Require `return` in functions
+- Add stack trace
